@@ -25,3 +25,5 @@ Backend: Python
 Game Engine / Framework: GDevelop
 
 Hosting: GitHub
+
+Developers: Nyx Fawcett, Finlay Hoyle, Preston Netanyahu
