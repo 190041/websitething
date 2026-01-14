@@ -26,4 +26,4 @@ Game Engine / Framework: GDevelop
 
 Hosting: GitHub
 
-Developers: Nyx Fawcett, Finlay Hoyle, Preston Netanyahu
+Developers: Nyx Fawcett, Preston Netanyahu & Finlay Hoyle
