@@ -1,9 +1,8 @@
-🎮 Game Hosting Website
+🎮 Project Rinsewind
 
-Welcome to the Game Hosting Website repository!
-This project is focused on developing a modern, interactive website designed to host and run a game directly in the browser.
+Welcome to the Project Rinsewind Website repository!
+This project is focused on developing a modern, interactive website designed to host and run Project Rinsewind directly in the browser.
 
-Whether you're building a casual web game, a multiplayer experience, or an experimental prototype, this repository serves as the foundation for the website that brings the game to life. 🚀
 
 🌟 Project Overview
 
@@ -19,12 +18,10 @@ This project aims to:
 
 🛠️ Tech Stack
 
-(Update this section as your stack becomes more defined)
+Frontend: HTML, CSS, JavaScript
 
-Frontend: HTML, CSS, JavaScript (or React / Vue / etc.)
+Backend: Python 
 
-Backend: Node.js / Python / Other (optional)
+Game Engine / Framework: GDevelop
 
-Game Engine / Framework: Custom JS, Phaser, Unity WebGL, etc.
-
-Hosting: GitHub Pages / Vercel / Netlify / Other
+Hosting: GitHub
