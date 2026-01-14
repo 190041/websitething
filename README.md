@@ -27,3 +27,7 @@ Game Engine / Framework: GDevelop
 Hosting: GitHub
 
 Developers: Nyx Fawcett & Preston Netanyahu and (ALLEGEDLY) Finlay Hoyle (im gonna crash out)
+
+
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/1f0bb5d4-13d7-48fb-8e79-1c5041599b34" />
+
