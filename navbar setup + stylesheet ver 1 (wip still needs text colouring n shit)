@@ -1,0 +1,58 @@
+HTML (put class= "active" on the link to your current page
+
+
+<div class="topnav">
+  <b href="landtest">
+	<img src="public/flixlstickslogo.png" alt="Home" width="80" height="80" class="nav-icon">
+  <a href="game.html">Game</a>
+  <a class= "active" href="about.html">About</a>
+  <a href="forum.html">Forum</a>
+  <a href="devblogs.html">Blogs</a>
+  <a href="login.html">Login</a>
+</div>
+
+
+CSS
+styles.css
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #151A2E;
+  overflow: hidden;
+  position: sticky;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #E6E8F0;
+  text-align: center;
+  padding: 30px 25px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #1c233d;
+  color: E6E8F0;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #22E6A7;
+  color: black;
+}
+
+/* Topnav Logo */
+.topnav b {
+	float: left;
+}
+	
+
+
+/* Background Colour for the main part of the page*/
+body {
+  background-color: #0B0F1A;
+  
+}
