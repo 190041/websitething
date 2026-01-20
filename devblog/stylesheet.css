@@ -63,3 +63,41 @@ body {
   text-align: center;
   border: 1px solid #ccc;
 }
+
+    .blogs-section {
+     
+      padding: 30px;
+    }
+
+    .blogs-title {
+      font-size: 20px;
+      margin-bottom: 20px;
+    }
+
+    .blogs-container {
+      display: flex;
+      gap: 30px;
+    }
+
+    .blog-card {
+      text-align: center;
+    }
+
+    .blog-card a {
+      display: block;
+      width: 120px;
+      height: 160px;
+      text-decoration: none;
+      color: #000;
+      border: 1px solid #ccc;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+    }
+
+    .blog-card p {
+      margin-top: 8px;
+      font-size: 14px;
+    }
