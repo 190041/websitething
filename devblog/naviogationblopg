@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blogs Section</title>
+	<link rel="stylesheet" href="blogstyle.css">
+</head>
+<body>
+
+<div class="topnav">
+  <b href="landtest">
+	<img src="public/flixlstickslogo.png" alt="Home" width="80" height="80" class="nav-icon">
+  <a href="game.html">Game</a>
+  <a href="about.html">About</a>
+  <a href="forum.html">Forum</a>
+  <a class="active" href="devblogs.html">Blogs</a>
+  <a href="login.html">Login</a>
+</div>
+
+  <div class="blogs-section">
+    <div class="blogs-title">Blogs</div>
+
+    <div class="blogs-container">
+      <div class="blog-card">
+        <a href="blog1.html">
+          image<br>with<br>link to<br>blog
+        </a>
+        <p>Dev name</p>
+      </div>
+
+      <div class="blog-card">
+        <a href="blog2.html">
+          image<br>with<br>link to<br>blog
+        </a>
+        <p>Dev name</p>
+      </div>
+
+      <div class="blog-card">
+        <a href="blog3.html">
+          image<br>with<br>link to<br>blog
+        </a>
+        <p>Dev name</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
